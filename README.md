@@ -1,6 +1,8 @@
 # SSD1306-OLED-display-driver-for-BeagleBone
 This is a SSD1306 OLED Display Library fully compatible with the BeagleBone.
 
+https://blog.adafruit.com/2017/10/25/ssd1306-oled-library-for-beaglebone-black/
+
 The Library has 3 components:
 1. I2C component for enabling communication between the BeagleBone and display.
 2. Control component for sending I2C commands to configure and control the display.
